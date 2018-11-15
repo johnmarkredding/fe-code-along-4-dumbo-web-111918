@@ -61,22 +61,20 @@ header {
 .col-1 {
   float: left;
   width: 32%;
-  background-color: #777;
   overflow: auto;
 }
 .col-2 {
   float: left;
   width: 66%;
-  background-color: #777;
   overflow: auto;
 }
 .col-3 {
-  background-color: #777;
   overflow: auto;
 }
 
 [class*="col-"] {
   margin-left: 2%;
+  background-color: #eee;
 }
 .first {
   margin-left: 0;
