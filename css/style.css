@@ -21,7 +21,6 @@ figcaption {
 }
 
 
-
 #logo h1 {
   font-family: 'Clicker Script', cursive;
 }
@@ -57,7 +56,6 @@ header {
 .wrapper {
   width: 960px;
   margin: 0 auto;
-  background-color: #eee;
 }
 
 .col-1 {
